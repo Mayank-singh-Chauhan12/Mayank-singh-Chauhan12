@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on #new ideas
 - 📫 How to reach me xchauhanmayank@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:lets do some big 
+- ⚡ Fun fact: lets do something awesome 
 
 <!---
 Mayank-singh-Chauhan12/Mayank-singh-Chauhan12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
