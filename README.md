@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mayank-singh-Chauhan12
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C language 
+- 🌱 I’m currently learning C++ with dsa.
+- I have completed C language from PSIT KANPUR and COLLEGE WALLAH.
 - 💞️ I’m looking to collaborate on #new ideas
 - 📫 How to reach me xchauhanmayank@gmail.com
 - 😄 Pronouns: he/him
